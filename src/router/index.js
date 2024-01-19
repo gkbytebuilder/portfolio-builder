@@ -13,7 +13,7 @@ const router = new createRouter({
     { path: '/', component: Home },
     { path: '/about', component: About },
     { path: '/resume', component: Resume },
-    { path: '/work', component: Work },
+    { path: '/works', component: Work },
     { path: '/contact', component: Contact },
   ],
 });
