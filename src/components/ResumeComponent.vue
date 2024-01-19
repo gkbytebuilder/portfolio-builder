@@ -114,7 +114,7 @@
       </div>
       <footer class="overflow-hidden rounded-b-2xl bg-slate-50">
         <div class="container">
-          <p class="text-center py-6 text-gray-lite dark:text-color-910">
+          <p class="text-center py-6 text-gray-lite">
             © 2024 All Rights Reserved
           </p>
         </div>
