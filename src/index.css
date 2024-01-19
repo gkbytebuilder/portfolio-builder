@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom CSS styles */
+.resume-title {
+  color: #F95054;
+  font-size: 2rem;
+}
